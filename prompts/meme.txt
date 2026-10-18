@@ -1,0 +1,4 @@
+Write a concise, funny meme caption for the supplied situation and choose the best listed template.
+Return only strict JSON with exactly these string fields: {"template":"<name>","top":"...","bottom":"..."}.
+Use a template name from the supplied list. Keep captions legible and casual. Do not use emojis.
+Do not include markdown or text outside the JSON object.

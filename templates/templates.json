@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Two Panel",
+    "file": "two_panel.png",
+    "text_boxes": {
+      "top": [40, 25, 760, 270],
+      "bottom": [40, 330, 760, 575]
+    },
+    "font_size": 44,
+    "use_when": "A simple before-and-after contrast or setup and punchline."
+  },
+  {
+    "name": "Four Panel",
+    "file": "four_panel.png",
+    "text_boxes": {
+      "top": [20, 15, 390, 280],
+      "bottom": [410, 320, 780, 585]
+    },
+    "font_size": 32,
+    "use_when": "A multi-step situation that works as a sequence or escalating reaction."
+  },
+  {
+    "name": "Big Mood",
+    "file": "big_mood.png",
+    "text_boxes": {
+      "top": [35, 25, 765, 210],
+      "bottom": [35, 390, 765, 575]
+    },
+    "font_size": 46,
+    "use_when": "One strong feeling or an everyday relatable situation."
+  },
+  {
+    "name": "Expectation Reality",
+    "file": "expectation_reality.png",
+    "text_boxes": {
+      "top": [35, 20, 765, 280],
+      "bottom": [35, 320, 765, 580]
+    },
+    "font_size": 42,
+    "use_when": "A funny mismatch between what someone planned and what happened."
+  },
+  {
+    "name": "Tiny Victory",
+    "file": "tiny_victory.png",
+    "text_boxes": {
+      "top": [45, 20, 755, 250],
+      "bottom": [45, 350, 755, 580]
+    },
+    "font_size": 44,
+    "use_when": "Small wins, daily struggles, and understated humor."
+  }
+]

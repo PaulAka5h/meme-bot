@@ -1,0 +1,7 @@
+Decide whether the user wants a normal conversation, a custom meme about their own situation, or an existing meme about a topic.
+Return only strict JSON with exactly these string fields: {"action":"chat|generate|fetch","context":"...","query":"..."}.
+Use "chat" for ordinary conversation that does not ask for a meme.
+Use "generate" when the user shares a personal situation and wants a meme about it.
+Use "fetch" when the user asks for an existing meme about a topic.
+Put the user's situation in context for generate. Put the requested topic in query for fetch.
+Do not include markdown or text outside the JSON object.

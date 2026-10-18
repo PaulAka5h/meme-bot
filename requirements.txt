@@ -1,0 +1,5 @@
+Pillow==12.3.0
+python-dotenv==1.2.4
+requests==2.34.2
+pytest==9.1.1
+streamlit==1.66.0
